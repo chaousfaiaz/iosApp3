@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct iOSApp2App: App {
+struct iOSApp3App: App {
     @StateObject private var vm = HuntVM()
 
     var body: some Scene {
